@@ -157,12 +157,6 @@ Then open **http://localhost:8000**.
 
 ---
 
-## License
-
-MIT — see [LICENSE](LICENSE) for details.
-
----
-
 <div align="center">
 Built by <a href="https://github.com/arya-manohar-16">Arya Manohar</a>
 </div>
