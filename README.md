@@ -11,8 +11,6 @@ EchoMind turns any YouTube video (or local recording) into a searchable, questio
 [![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Whisper](https://img.shields.io/badge/OpenAI-Whisper-412991?logo=openai&logoColor=white)](https://github.com/openai/whisper)
 [![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector%20Store-FF6F61)](https://www.trychroma.com/)
-[![License](https://img.shields.io/badge/License-MIT-yellow)](#license)
-
 </div>
 
 ---
